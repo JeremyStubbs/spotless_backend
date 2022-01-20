@@ -6,9 +6,6 @@ A new music app called, "SpotLess". This revolutionary music app will allow user
 
 ## Project Links
 
-- [GitHub Repo](https://git.generalassemb.ly/Git-Rekt/project3_SpotLess)
-- [Old GitHub Repo](https://git.generalassemb.ly/Git-Rekt/project3_SpotLess/tree/tester)
-- Deployment Link: TBD
 
 ## Wireframes
 
@@ -72,4 +69,3 @@ ReactJS, TBD
 
 ## Code Snippet
 TBD
-
